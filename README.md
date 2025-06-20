@@ -1,5 +1,5 @@
 
-Live @ :  https://pranavmappoli.github.io/bankist/
+Live @ :  https://fuzailahammed.github.io/bankist/
 
 
 # Bankist
